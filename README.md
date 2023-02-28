@@ -3,7 +3,7 @@
 Part of the final thesis Virtual Neonatal Cranial Ultrasonography Simulation. 
 
 During the project my primary responsibility was the hardware and software of the simulation tracking
-system; e.g. the Raspberry Pi setup and the software and coding needed to run the AruCo tracking
+system; e.g. a Raspberry Pi setup and the software and coding needed to run the AruCo tracking
 and pose estimation. In this repository you'll find the python code using OpenCV (an open source computer vision and machine 
 learning software library, which contains real-time vision applications.
 
